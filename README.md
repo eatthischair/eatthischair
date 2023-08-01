@@ -1,8 +1,6 @@
 <h2 align="center">Hi 👋, I'm Thomas Stephenson</h2>
 <h3 align="center">A passionate full-stack developer from Dallas, TX</h3>
 
-- How to reach me: **thomas.stephenson97@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/deirdre-loyall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deirdre-loyall" height="30" width="40" /></a>
