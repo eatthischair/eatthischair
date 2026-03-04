@@ -1,5 +1,5 @@
-<h2 align="center">Hi 👋, I'm Thomas Stephenson</h2>
-<h3 align="center">A passionate full-stack developer from Dallas, TX</h3>
+<!-- <h2 align="center">Hi 👋, I'm Thomas Stephenson</h2>
+<h3 align="center">A passionate full-stack developer from Dallas, TX</h3> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
